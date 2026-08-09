@@ -1,3 +1,21 @@
 body {
   background-color: rgb(238, 209, 146);
 }
+h1 {
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+  font-size: 55px;
+}
+p {
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+  font-size: 18px;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  color: cadetblue;
+  font-size: 17px;
+}
